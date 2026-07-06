@@ -1,30 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 
-<h3 align="center">
-B.Tech CS-IT Student • Learning C++ • DSA Enthusiast • Building Projects
-</h3>
+<p align="center">
+  <b>B.Tech Computer Science & Information Technology (CS-IT) Student</b>
+</p>
 
 <p align="center">
-I enjoy learning by building practical projects that strengthen my programming fundamentals.
-Currently focused on C++, Data Structures & Algorithms, and Software Development.
+Learning C++ • Data Structures & Algorithms • Software Development
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 First-year B.Tech Computer Science & Information Technology (CS-IT) Student
+I'm a Computer Science student passionate about building practical software and strengthening my programming fundamentals.
 
-💻 Currently learning
+I believe the best way to learn is by building projects, understanding how things work under the hood, and writing clean, maintainable code.
 
-- C++
+Currently exploring:
+
+- Modern C++
 - STL
 - Data Structures & Algorithms
 - Object-Oriented Programming
-
-🎯 Goal
-
-Become a skilled Software Engineer by building strong fundamentals and solving real-world problems.
+- Git & GitHub
 
 ---
 
@@ -42,132 +40,102 @@ Become a skilled Software Engineer by building strong fundamentals and solving r
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Currently Learning
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+## 📌 Featured Repository
 
-- STL
-- Data Structures & Algorithms
-- OOP
+### 💻 C++ Projects
+
+A collection of beginner-to-intermediate C++ console applications built while learning core programming concepts.
+
+🔗 **Repository**
+
+https://github.com/ashutoshcodes-art/cpp-projects
+
+### Projects Included
+
+- 🏦 Bank Account Management System
+- 🎟 Ticket Booking System
+- 📦 Inventory Management System
+- 📞 Contact Management System
+- 📚 Library Management System
+- 👨‍💼 Employee Management System
+- 🎓 Student Record Management System
+- 🧮 Menu Calculator
+- 📊 Array Operations System
+- 🔤 String Operations System
+- 🏧 ATM Simulator
+- 🎲 Number Guessing Game
 
 ---
 
-## 📂 Featured Projects
+## 📈 Learning Progress
 
-### 💻 C++ Projects Collection
+### Programming
 
-A collection of **13+ C++ console applications** covering:
+- ✅ C Fundamentals
+- ✅ C++ Fundamentals
+- 🔄 STL
+- 🔄 Object-Oriented Programming
 
-- Banking System
-- Inventory Management
-- Ticket Booking System
-- Contact Management
-- Library Management
-- Student Management
-- Employee Management
-- Array & String Operations
+### Data Structures & Algorithms
 
-🔗 https://github.com/ashutoshcodes-art/cpp-projects
+- 🔄 Arrays
+- 🔄 Strings
+- ⬜ Linked Lists
+- ⬜ Stacks & Queues
+- ⬜ Trees
+- ⬜ Graphs
 
----
+### Development
 
-### 📦 Highlight Projects
-
-🏦 **Bank Account Management System**
-
-- File Handling
-- Money Transfer
-- CRUD Operations
-- Input Validation
-
-🎟 **Ticket Booking System**
-
-- Seat Management
-- File Handling
-- Booking & Cancellation
-
-📦 **Inventory Management System**
-
-- Stock Management
-- Billing
-- Product Management
-
-📞 **Contact Management System**
-
-- File Handling
-- CRUD Operations
-- Phone Validation
+- ✅ Git & GitHub
+- 🔄 Problem Solving
+- ⬜ Web Development
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Milestones
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutoshcodes-art&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshcodes-art&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ashutoshcodes-art&theme=github-dark&hide_border=true"/>
-
-</p>
+- 💻 13+ Complete C++ Projects
+- 📝 113+ Programming Problems Solved
+- 📚 Learning DSA
+- 🚀 Building Practical Software Projects
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master Modern C++
-- ✅ Complete STL
-- 🔄 Solve 300+ DSA Problems
-- 🔄 Build Full-Stack Projects
-- 🔄 Learn System Design Basics
-- 🔄 Contribute to Open Source
+- Master Modern C++
+- Complete DSA
+- Solve 300+ Coding Problems
+- Build Full-Stack Projects
+- Learn Backend Development
+- Contribute to Open Source
 
 ---
 
-## 📈 Current Focus
+## 📖 Currently Working On
 
-- 📚 Learning Data Structures & Algorithms
-- 💻 Writing Clean C++ Code
-- 🚀 Building Better Projects
-- 🌱 Improving Git & GitHub Workflow
+- C++ STL
+- Data Structures & Algorithms
+- Writing cleaner and more modular code
+- Improving problem-solving skills
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-<p>
+- GitHub: https://github.com/ashutoshcodes-art
 
-<a href="https://github.com/ashutoshcodes-art">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Add these later -->
-
-<!--
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
--->
-
-</p>
+(LinkedIn and Portfolio coming soon.)
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-*"Learning one concept at a time. Building one project at a time."*
+<i>"Every project is one step closer to becoming a better engineer."</i>
 
 </p>
